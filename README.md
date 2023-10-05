@@ -6,3 +6,23 @@ This is a Java based desktop application. The purpose of this application is to 
 3. SQL
 4. Exception Handling
 5. Multithreading
+# Screenshots
+1. Splash Screen
+
+![Local Image](Screenshots/splashScreen.png)
+
+2. Login Screen
+
+![Local Image](Screenshots/loginScreen.png)
+
+3. Admin Options
+
+![Local Image](Screenshots/adminScreen.png)
+
+4. Receptionist Options
+
+![Local Image](Screenshots/receptionistScreen.png)
+
+5. Doctor Options
+
+![Local Image](Screenshots/doctorScreen.png)
