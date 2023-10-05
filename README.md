@@ -3,5 +3,6 @@ This is a Java based desktop application. The purpose of this application is to 
 # Technologies Used
 1. Swing
 2. JDBC
-3. Exception Handling
-4. Multithreading
+3. SQL
+4. Exception Handling
+5. Multithreading
